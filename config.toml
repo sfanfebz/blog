@@ -1,5 +1,5 @@
 baseURL = "https://sfanfebz.github.io"
-title   = "Hello Friend NG"
+title   = "Hi, Stranger!"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Stefanus Febri"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -55,11 +55,11 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
+  description = "Hi, I&#039;m Stefanus Febri a freelance web &amp; graphic designer. If you&#039;re reading this, surely you are looking for me with a reason right?"
+  keywords = "stefanus febri"
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "My name is Stefanus Febri"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -93,8 +93,8 @@ disableHugoGeneratorInject = false
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
   #
-  # footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-  # footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  footerRight = "Made with &#10084; by <a href=\"https://stefanusfebri.com\">Stefanus Febri</a>"
 
   # Colors for favicons
   #
@@ -135,32 +135,32 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/stefebri"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:iam@stefanusfebri.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/sfanfebz"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/stefanusfebri"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+  #[[params.social]]
+  #  name = "stackoverflow"
+  #  url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "My name is Stefanus Febri"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "My name is Stefanus Febri"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
