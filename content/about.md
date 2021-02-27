@@ -1,19 +1,15 @@
 +++
 title = "About"
 date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+aliases = ["about-me","about-febri","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Stefanus Febri"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hi All, my name is Stefanus Febri and I'm an **IT Software Engineer** based in Jakarta, Indonesia.
 
-It makes use of a variety of open source projects including:
+This blog is simply used to share my knowledge about anything.
+It is build on [Hugo](https://github.com/gohugoio) and running on my github page by using a simple CI/CD pipeline to Github using Azure DevOps.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more about my works and projects on my Github:
+* https://github.com/sfanfebz
