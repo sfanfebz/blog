@@ -1,4 +1,4 @@
-baseURL = "https://sfanfebz.github.io"
+baseURL = "https://blog.stefanusfebri.com"
 title   = "Hi, Stranger!"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -25,7 +25,7 @@ buildExpired = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
@@ -66,7 +66,7 @@ disableHugoGeneratorInject = false
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
-  # gitUrl = ""
+  gitUrl = "https://github.com/sfanfebz/sfanfebz.github.io/commit/"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
