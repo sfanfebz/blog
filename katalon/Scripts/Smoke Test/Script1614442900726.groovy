@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://blog.stefanusfebri.com/')
+WebUI.navigateToUrl('https://staging.blog.stefanusfebri.com/')
 
 WebUI.click(findTestObject('Object Repository/blog.stefanusfebri.com/Page_Hi, Stranger  My name is Stefanus Febri/a_About'))
 
