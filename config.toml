@@ -1,5 +1,5 @@
-baseURL = "https://blog.stefanusfebri.com"
-title   = "Hi, Stranger!"
+baseURL = "/"
+title   = "Hi, Strangers!"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
